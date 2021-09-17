@@ -1,0 +1,18 @@
+
+/* @media (max-width:600px){    
+   
+} */
+
+#welcome-section{
+    height: 100vh;
+    min-height: 100vh;
+}
+
+#navbar{
+    position: fixed;
+}
+
+
+@media only screen and (max-width: 800px){
+    /*Tablets [601px -> 1200px]*/
+}
